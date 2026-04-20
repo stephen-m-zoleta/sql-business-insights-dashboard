@@ -1,0 +1,181 @@
+order_id,order_date,customer_id,region,city,category,sub_category,product_name,quantity,sales,profit
+ORD-2025-0001,2025-11-24,CUST-1070,North,Quezon City,Furniture,Tables,Office Desk,2,11259.63,1330.88
+ORD-2025-0002,2025-02-14,CUST-1026,East,Marikina,Technology,Laptops,Business Laptop,2,88226.99,8127.72
+ORD-2025-0003,2025-11-29,CUST-1055,East,Marikina,Office Supplies,Storage,Desk Drawer Unit,1,2031.84,290.09
+ORD-2025-0004,2025-06-24,CUST-1034,Central,Makati,Technology,Accessories,Wireless Mouse,1,939.87,204.44
+ORD-2025-0005,2025-01-23,CUST-1047,East,Taytay,Technology,Accessories,Wireless Mouse,5,4409.76,1059.63
+ORD-2025-0006,2025-10-23,CUST-1030,South,Muntinlupa,Technology,Laptops,Gaming Laptop,2,123700.56,15934.82
+ORD-2025-0007,2025-02-21,CUST-1027,East,Antipolo,Office Supplies,Storage,Desk Drawer Unit,2,3700.0,590.57
+ORD-2025-0008,2025-12-10,CUST-1032,Central,Pasig,Furniture,Storage,Steel Cabinet,5,41311.63,5896.46
+ORD-2025-0009,2025-03-25,CUST-1008,East,Antipolo,Office Supplies,Storage,Document Organizer,6,3840.0,752.42
+ORD-2025-0010,2025-04-28,CUST-1073,North,Caloocan,Office Supplies,Writing,Gel Pen Pack,2,440.0,142.14
+ORD-2025-0011,2025-06-11,CUST-1072,South,Muntinlupa,Office Supplies,Writing,Marker Set,2,737.69,169.47
+ORD-2025-0012,2025-10-03,CUST-1018,Central,Pasig,Furniture,Tables,Meeting Table,3,29400.0,3161.84
+ORD-2025-0013,2025-09-18,CUST-1077,East,Marikina,Technology,Laptops,Business Laptop,6,259458.93,37475.86
+ORD-2025-0014,2025-02-02,CUST-1002,East,Antipolo,Furniture,Tables,Meeting Table,5,49000.0,7784.26
+ORD-2025-0015,2025-12-15,CUST-1001,North,Malabon,Furniture,Tables,Meeting Table,1,10352.87,1062.75
+ORD-2025-0016,2025-05-15,CUST-1048,South,Muntinlupa,Technology,Phones,Midrange Smartphone,6,97692.76,12300.78
+ORD-2025-0017,2025-03-24,CUST-1040,North,Malabon,Office Supplies,Writing,Gel Pen Pack,1,220.0,71.35
+ORD-2025-0018,2025-05-03,CUST-1009,North,Quezon City,Furniture,Chairs,Ergonomic Chair,6,37200.0,6654.31
+ORD-2025-0019,2025-09-30,CUST-1078,South,Las Piñas,Furniture,Tables,Office Desk,3,16200.0,2465.87
+ORD-2025-0020,2025-08-05,CUST-1084,South,Muntinlupa,Furniture,Storage,Steel Cabinet,6,48247.28,8665.79
+ORD-2025-0021,2025-07-11,CUST-1071,East,Taytay,Office Supplies,Paper,A4 Copy Paper Box,2,3480.16,423.48
+ORD-2025-0022,2025-04-28,CUST-1043,South,Las Piñas,Technology,Phones,Tablet,1,13748.7,1958.28
+ORD-2025-0023,2025-02-06,CUST-1074,South,Parañaque,Furniture,Tables,Office Desk,5,27000.0,3255.79
+ORD-2025-0024,2025-10-23,CUST-1056,East,Marikina,Office Supplies,Writing,Gel Pen Pack,1,220.0,56.71
+ORD-2025-0025,2025-07-01,CUST-1008,East,Antipolo,Office Supplies,Storage,Document Organizer,6,4181.03,926.91
+ORD-2025-0026,2025-07-26,CUST-1032,Central,Makati,Technology,Laptops,Business Laptop,5,234294.5,26307.43
+ORD-2025-0027,2025-02-08,CUST-1031,East,Taytay,Technology,Laptops,Gaming Laptop,5,310346.88,39575.34
+ORD-2025-0028,2025-03-27,CUST-1001,East,Antipolo,Office Supplies,Paper,Notebook Set,1,480.0,111.92
+ORD-2025-0029,2025-07-19,CUST-1008,Central,Manila,Office Supplies,Writing,Marker Set,2,732.96,166.69
+ORD-2025-0030,2025-10-24,CUST-1068,North,Malabon,Office Supplies,Paper,A4 Copy Paper Box,5,8400.0,1328.4
+ORD-2025-0031,2025-03-22,CUST-1052,North,Malabon,Technology,Laptops,Business Laptop,5,215056.31,34182.24
+ORD-2025-0032,2025-03-03,CUST-1073,South,Muntinlupa,Furniture,Chairs,Ergonomic Chair,4,24800.0,4776.23
+ORD-2025-0033,2025-09-25,CUST-1086,Central,Manila,Technology,Phones,Tablet,3,41269.41,4195.57
+ORD-2025-0034,2025-11-27,CUST-1013,Central,Manila,Office Supplies,Paper,A4 Copy Paper Box,4,7297.28,1204.34
+ORD-2025-0035,2025-02-07,CUST-1048,South,Muntinlupa,Office Supplies,Paper,Notebook Set,1,480.0,139.36
+ORD-2025-0036,2025-05-26,CUST-1084,South,Parañaque,Furniture,Storage,Bookshelf,5,21000.0,4172.87
+ORD-2025-0037,2025-09-28,CUST-1014,North,Malabon,Furniture,Tables,Office Desk,2,10800.0,1416.5
+ORD-2025-0038,2025-10-11,CUST-1088,South,Parañaque,Office Supplies,Storage,Document Organizer,6,3840.0,758.13
+ORD-2025-0039,2025-11-21,CUST-1006,Central,Pasig,Office Supplies,Writing,Gel Pen Pack,1,239.16,75.66
+ORD-2025-0040,2025-01-02,CUST-1055,Central,Makati,Furniture,Tables,Office Desk,6,32400.0,4709.24
+ORD-2025-0041,2025-10-15,CUST-1071,North,Quezon City,Technology,Phones,Budget Smartphone,5,36797.82,4030.73
+ORD-2025-0042,2025-03-17,CUST-1032,East,Marikina,Technology,Accessories,Mechanical Keyboard,1,2577.45,429.93
+ORD-2025-0043,2025-12-08,CUST-1023,North,Caloocan,Furniture,Tables,Office Desk,2,11964.4,2250.46
+ORD-2025-0044,2025-07-31,CUST-1035,North,Quezon City,Furniture,Tables,Meeting Table,6,65136.63,10087.05
+ORD-2025-0045,2025-03-23,CUST-1040,North,Caloocan,Technology,Accessories,Wireless Mouse,2,1817.29,412.21
+ORD-2025-0046,2025-04-27,CUST-1009,South,Las Piñas,Furniture,Chairs,Visitor Chair,3,8400.0,1195.22
+ORD-2025-0047,2025-05-23,CUST-1034,Central,Pasig,Furniture,Tables,Meeting Table,1,9800.0,972.43
+ORD-2025-0048,2025-04-02,CUST-1078,Central,Makati,Technology,Phones,Midrange Smartphone,3,49462.64,6682.12
+ORD-2025-0049,2025-09-19,CUST-1001,North,Caloocan,Furniture,Chairs,Visitor Chair,1,2800.0,494.77
+ORD-2025-0050,2025-09-24,CUST-1016,South,Parañaque,Office Supplies,Paper,Notebook Set,5,2400.0,588.27
+ORD-2025-0051,2025-06-03,CUST-1054,Central,Pasig,Office Supplies,Writing,Marker Set,6,2218.88,488.56
+ORD-2025-0052,2025-12-07,CUST-1037,East,Taytay,Furniture,Chairs,Visitor Chair,4,12088.32,1450.99
+ORD-2025-0053,2025-04-18,CUST-1087,East,Taytay,Furniture,Storage,Bookshelf,4,16800.0,2609.76
+ORD-2025-0054,2025-04-20,CUST-1043,East,Taytay,Technology,Phones,Budget Smartphone,3,22700.03,2965.42
+ORD-2025-0055,2025-02-17,CUST-1032,South,Muntinlupa,Office Supplies,Paper,A4 Copy Paper Box,2,3360.0,409.77
+ORD-2025-0056,2025-09-01,CUST-1064,North,Caloocan,Office Supplies,Storage,Document Organizer,6,3840.0,866.72
+ORD-2025-0057,2025-07-24,CUST-1090,South,Las Piñas,Furniture,Storage,Steel Cabinet,1,8360.44,982.41
+ORD-2025-0058,2025-09-23,CUST-1060,East,Marikina,Furniture,Chairs,Ergonomic Chair,4,24800.0,3736.54
+ORD-2025-0059,2025-12-08,CUST-1061,Central,Manila,Furniture,Storage,Bookshelf,5,22472.78,2982.87
+ORD-2025-0060,2025-08-19,CUST-1037,Central,Makati,Furniture,Tables,Meeting Table,6,61830.09,7740.5
+ORD-2025-0061,2025-05-01,CUST-1050,Central,Manila,Office Supplies,Storage,Document Organizer,2,1280.0,233.05
+ORD-2025-0062,2025-12-22,CUST-1054,South,Muntinlupa,Technology,Laptops,Student Laptop,4,137359.11,10299.36
+ORD-2025-0063,2025-07-19,CUST-1054,North,Malabon,Office Supplies,Writing,Gel Pen Pack,3,697.54,196.15
+ORD-2025-0064,2025-10-03,CUST-1087,South,Parañaque,Technology,Accessories,Mechanical Keyboard,4,9808.72,1735.07
+ORD-2025-0065,2025-07-27,CUST-1011,South,Parañaque,Technology,Phones,Tablet,1,15522.92,1909.94
+ORD-2025-0066,2025-11-26,CUST-1042,East,Marikina,Office Supplies,Paper,A4 Copy Paper Box,3,5363.16,734.39
+ORD-2025-0067,2025-06-22,CUST-1045,East,Antipolo,Office Supplies,Writing,Gel Pen Pack,4,907.94,266.17
+ORD-2025-0068,2025-04-25,CUST-1031,North,Malabon,Technology,Laptops,Business Laptop,2,89909.71,12561.0
+ORD-2025-0069,2025-03-06,CUST-1022,East,Taytay,Technology,Phones,Budget Smartphone,4,30584.68,4323.2
+ORD-2025-0070,2025-11-07,CUST-1049,North,Quezon City,Office Supplies,Paper,A4 Copy Paper Box,3,5452.38,1050.36
+ORD-2025-0071,2025-07-23,CUST-1088,South,Las Piñas,Furniture,Storage,Steel Cabinet,1,8304.88,1030.86
+ORD-2025-0072,2025-11-04,CUST-1002,North,Malabon,Technology,Accessories,USB-C Hub,4,6459.31,1432.7
+ORD-2025-0073,2025-08-04,CUST-1067,East,Marikina,Office Supplies,Writing,Marker Set,6,2191.92,491.19
+ORD-2025-0074,2025-11-30,CUST-1042,Central,Pasig,Furniture,Tables,Meeting Table,4,43289.19,5947.85
+ORD-2025-0075,2025-05-06,CUST-1049,North,Caloocan,Office Supplies,Paper,Notebook Set,5,2400.0,645.18
+ORD-2025-0076,2025-06-22,CUST-1036,North,Caloocan,Office Supplies,Paper,Notebook Set,2,1019.46,245.35
+ORD-2025-0077,2025-11-02,CUST-1031,Central,Pasig,Technology,Phones,Budget Smartphone,1,7891.98,981.87
+ORD-2025-0078,2025-12-20,CUST-1089,East,Taytay,Furniture,Tables,Meeting Table,1,10176.07,1096.24
+ORD-2025-0079,2025-05-05,CUST-1055,Central,Pasig,Furniture,Tables,Meeting Table,5,49000.0,6491.21
+ORD-2025-0080,2025-10-09,CUST-1016,Central,Manila,Furniture,Tables,Meeting Table,3,29400.0,3237.3
+ORD-2025-0081,2025-04-09,CUST-1062,Central,Makati,Furniture,Storage,Steel Cabinet,2,15200.0,1783.12
+ORD-2025-0082,2025-05-22,CUST-1069,Central,Makati,Technology,Accessories,Wireless Mouse,3,2628.45,502.38
+ORD-2025-0083,2025-03-06,CUST-1063,Central,Makati,Technology,Phones,Midrange Smartphone,6,100128.02,16123.57
+ORD-2025-0084,2025-02-22,CUST-1007,North,Malabon,Office Supplies,Writing,Marker Set,4,1400.0,332.16
+ORD-2025-0085,2025-05-10,CUST-1020,East,Marikina,Technology,Accessories,Mechanical Keyboard,1,2531.09,518.66
+ORD-2025-0086,2025-03-18,CUST-1029,Central,Makati,Technology,Laptops,Gaming Laptop,4,245079.94,27757.57
+ORD-2025-0087,2025-09-25,CUST-1008,East,Antipolo,Office Supplies,Writing,Marker Set,3,1050.0,268.26
+ORD-2025-0088,2025-11-09,CUST-1071,North,Quezon City,Furniture,Chairs,Visitor Chair,6,17426.76,2425.62
+ORD-2025-0089,2025-02-08,CUST-1037,South,Las Piñas,Office Supplies,Writing,Marker Set,3,1050.0,223.24
+ORD-2025-0090,2025-12-28,CUST-1085,Central,Pasig,Office Supplies,Paper,A4 Copy Paper Box,3,5548.56,943.28
+ORD-2025-0091,2025-04-12,CUST-1010,East,Marikina,Furniture,Chairs,Ergonomic Chair,3,18600.0,3834.03
+ORD-2025-0092,2025-01-31,CUST-1089,South,Parañaque,Furniture,Storage,Bookshelf,4,16800.0,2183.13
+ORD-2025-0093,2025-06-05,CUST-1056,East,Antipolo,Furniture,Storage,Bookshelf,4,17425.63,2146.64
+ORD-2025-0094,2025-06-15,CUST-1035,Central,Makati,Technology,Laptops,Gaming Laptop,5,320184.88,35598.42
+ORD-2025-0095,2025-10-23,CUST-1075,North,Quezon City,Office Supplies,Storage,Desk Drawer Unit,3,5550.0,802.08
+ORD-2025-0096,2025-08-12,CUST-1021,East,Marikina,Office Supplies,Writing,Marker Set,3,1111.84,242.79
+ORD-2025-0097,2025-06-18,CUST-1033,East,Taytay,Office Supplies,Writing,Marker Set,5,1808.28,392.48
+ORD-2025-0098,2025-06-15,CUST-1080,North,Caloocan,Furniture,Chairs,Visitor Chair,4,11590.64,1871.6
+ORD-2025-0099,2025-09-13,CUST-1090,East,Marikina,Technology,Accessories,USB-C Hub,2,3119.42,639.63
+ORD-2025-0100,2025-09-06,CUST-1071,North,Quezon City,Furniture,Storage,Steel Cabinet,6,45600.0,5137.76
+ORD-2025-0101,2025-01-08,CUST-1038,East,Marikina,Technology,Laptops,Student Laptop,1,32824.74,2702.06
+ORD-2025-0102,2025-09-18,CUST-1050,Central,Manila,Office Supplies,Writing,Gel Pen Pack,4,880.0,258.81
+ORD-2025-0103,2025-04-08,CUST-1001,South,Las Piñas,Office Supplies,Writing,Marker Set,5,1750.0,404.9
+ORD-2025-0104,2025-05-25,CUST-1062,Central,Pasig,Furniture,Storage,Bookshelf,2,8400.0,1308.08
+ORD-2025-0105,2025-06-26,CUST-1031,Central,Pasig,Furniture,Tables,Meeting Table,3,32582.97,5488.99
+ORD-2025-0106,2025-10-20,CUST-1049,East,Marikina,Office Supplies,Paper,Notebook Set,6,2880.0,742.57
+ORD-2025-0107,2025-07-17,CUST-1013,South,Parañaque,Technology,Laptops,Gaming Laptop,5,314911.41,37034.57
+ORD-2025-0108,2025-09-27,CUST-1010,East,Marikina,Furniture,Chairs,Visitor Chair,6,16800.0,3319.62
+ORD-2025-0109,2025-08-29,CUST-1087,Central,Manila,Furniture,Storage,Bookshelf,6,26138.16,3823.63
+ORD-2025-0110,2025-10-01,CUST-1009,East,Antipolo,Furniture,Storage,Bookshelf,5,21000.0,2580.31
+ORD-2025-0111,2025-05-01,CUST-1013,Central,Makati,Furniture,Chairs,Visitor Chair,1,2800.0,506.32
+ORD-2025-0112,2025-08-16,CUST-1048,South,Muntinlupa,Office Supplies,Paper,A4 Copy Paper Box,3,5552.33,796.59
+ORD-2025-0113,2025-08-09,CUST-1049,South,Las Piñas,Furniture,Tables,Office Desk,2,11294.17,1793.06
+ORD-2025-0114,2025-11-14,CUST-1086,South,Parañaque,Furniture,Chairs,Ergonomic Chair,4,26967.8,4766.98
+ORD-2025-0115,2025-01-05,CUST-1045,East,Antipolo,Furniture,Storage,Steel Cabinet,1,7600.0,1028.57
+ORD-2025-0116,2025-10-28,CUST-1026,Central,Pasig,Office Supplies,Storage,Desk Drawer Unit,4,7400.0,1462.42
+ORD-2025-0117,2025-07-16,CUST-1085,East,Marikina,Technology,Accessories,USB-C Hub,3,5051.63,978.09
+ORD-2025-0118,2025-07-22,CUST-1037,Central,Makati,Furniture,Storage,Steel Cabinet,5,41688.49,6946.43
+ORD-2025-0119,2025-04-28,CUST-1085,Central,Makati,Furniture,Chairs,Visitor Chair,6,16800.0,3031.5
+ORD-2025-0120,2025-12-15,CUST-1017,South,Muntinlupa,Technology,Phones,Tablet,1,14686.57,1709.02
+ORD-2025-0121,2025-02-16,CUST-1070,Central,Manila,Furniture,Tables,Office Desk,2,10800.0,1302.19
+ORD-2025-0122,2025-07-07,CUST-1060,Central,Makati,Office Supplies,Writing,Marker Set,6,2327.51,638.53
+ORD-2025-0123,2025-02-08,CUST-1051,South,Las Piñas,Furniture,Storage,Bookshelf,5,21000.0,3134.5
+ORD-2025-0124,2025-01-08,CUST-1049,Central,Pasig,Technology,Accessories,Mechanical Keyboard,6,15335.15,2621.9
+ORD-2025-0125,2025-11-23,CUST-1042,Central,Makati,Furniture,Chairs,Visitor Chair,1,3040.13,594.2
+ORD-2025-0126,2025-11-09,CUST-1005,South,Muntinlupa,Technology,Phones,Midrange Smartphone,6,102457.62,12416.04
+ORD-2025-0127,2025-06-05,CUST-1090,East,Marikina,Technology,Laptops,Gaming Laptop,2,128439.7,16177.04
+ORD-2025-0128,2025-10-04,CUST-1063,East,Taytay,Furniture,Storage,Steel Cabinet,4,30400.0,4632.77
+ORD-2025-0129,2025-11-12,CUST-1013,East,Antipolo,Technology,Phones,Midrange Smartphone,2,35555.07,6344.31
+ORD-2025-0130,2025-12-18,CUST-1059,Central,Pasig,Furniture,Tables,Office Desk,4,22784.31,4271.07
+ORD-2025-0131,2025-02-16,CUST-1032,South,Muntinlupa,Furniture,Storage,Steel Cabinet,1,7600.0,1238.37
+ORD-2025-0132,2025-03-06,CUST-1019,South,Las Piñas,Furniture,Chairs,Ergonomic Chair,2,12400.0,2061.93
+ORD-2025-0133,2025-11-02,CUST-1017,North,Caloocan,Technology,Laptops,Gaming Laptop,3,196352.36,23427.95
+ORD-2025-0134,2025-01-08,CUST-1017,Central,Makati,Furniture,Tables,Office Desk,2,10800.0,1417.28
+ORD-2025-0135,2025-08-04,CUST-1079,North,Malabon,Technology,Accessories,Mechanical Keyboard,3,7939.69,1510.98
+ORD-2025-0136,2025-01-23,CUST-1055,Central,Manila,Furniture,Chairs,Ergonomic Chair,4,24800.0,5153.04
+ORD-2025-0137,2025-12-18,CUST-1017,North,Caloocan,Furniture,Tables,Office Desk,1,5718.55,696.9
+ORD-2025-0138,2025-05-21,CUST-1056,Central,Manila,Furniture,Storage,Bookshelf,4,16800.0,2695.46
+ORD-2025-0139,2025-02-20,CUST-1030,North,Malabon,Furniture,Storage,Steel Cabinet,4,30400.0,4138.18
+ORD-2025-0140,2025-07-31,CUST-1048,Central,Manila,Office Supplies,Writing,Gel Pen Pack,3,705.15,213.81
+ORD-2025-0141,2025-03-20,CUST-1017,East,Marikina,Technology,Laptops,Business Laptop,4,172333.37,25695.54
+ORD-2025-0142,2025-10-12,CUST-1046,North,Malabon,Furniture,Storage,Bookshelf,6,25200.0,3270.42
+ORD-2025-0143,2025-12-07,CUST-1085,East,Taytay,Technology,Accessories,USB-C Hub,3,4856.01,908.17
+ORD-2025-0144,2025-09-04,CUST-1074,South,Las Piñas,Office Supplies,Storage,Desk Drawer Unit,1,1850.0,353.37
+ORD-2025-0145,2025-04-26,CUST-1089,East,Taytay,Furniture,Storage,Steel Cabinet,5,38000.0,6624.42
+ORD-2025-0146,2025-05-17,CUST-1024,North,Quezon City,Office Supplies,Storage,Desk Drawer Unit,3,5550.0,877.35
+ORD-2025-0147,2025-03-15,CUST-1049,East,Marikina,Technology,Phones,Tablet,1,13639.22,1533.58
+ORD-2025-0148,2025-08-03,CUST-1007,East,Antipolo,Technology,Accessories,Mechanical Keyboard,6,16353.78,3233.11
+ORD-2025-0149,2025-03-21,CUST-1078,South,Muntinlupa,Technology,Phones,Budget Smartphone,3,22606.27,2575.33
+ORD-2025-0150,2025-08-15,CUST-1063,East,Antipolo,Technology,Phones,Budget Smartphone,3,23882.84,3206.96
+ORD-2025-0151,2025-09-27,CUST-1028,Central,Makati,Technology,Accessories,USB-C Hub,1,1479.67,287.22
+ORD-2025-0152,2025-03-12,CUST-1023,Central,Manila,Office Supplies,Paper,A4 Copy Paper Box,4,6720.0,1207.99
+ORD-2025-0153,2025-03-08,CUST-1006,East,Taytay,Furniture,Chairs,Visitor Chair,1,2800.0,424.94
+ORD-2025-0154,2025-08-12,CUST-1015,North,Caloocan,Technology,Accessories,USB-C Hub,4,6636.22,1349.91
+ORD-2025-0155,2025-07-27,CUST-1032,North,Caloocan,Technology,Phones,Midrange Smartphone,6,105840.24,18792.86
+ORD-2025-0156,2025-08-12,CUST-1066,East,Taytay,Technology,Accessories,Mechanical Keyboard,6,15847.78,2590.33
+ORD-2025-0157,2025-11-21,CUST-1019,North,Malabon,Furniture,Chairs,Visitor Chair,3,9201.9,1707.1
+ORD-2025-0158,2025-05-01,CUST-1084,North,Quezon City,Office Supplies,Paper,A4 Copy Paper Box,5,8400.0,1110.73
+ORD-2025-0159,2025-02-08,CUST-1073,South,Muntinlupa,Office Supplies,Writing,Marker Set,6,2100.0,596.26
+ORD-2025-0160,2025-11-26,CUST-1036,Central,Pasig,Office Supplies,Paper,Notebook Set,1,514.66,139.22
+ORD-2025-0161,2025-10-30,CUST-1008,North,Caloocan,Furniture,Chairs,Visitor Chair,4,11200.0,1748.91
+ORD-2025-0162,2025-07-08,CUST-1006,Central,Makati,Furniture,Chairs,Visitor Chair,4,12120.97,2379.81
+ORD-2025-0163,2025-08-19,CUST-1044,South,Parañaque,Furniture,Tables,Office Desk,1,5780.95,1010.96
+ORD-2025-0164,2025-02-13,CUST-1047,South,Las Piñas,Technology,Phones,Midrange Smartphone,4,65189.54,10351.08
+ORD-2025-0165,2025-07-10,CUST-1013,Central,Manila,Office Supplies,Writing,Gel Pen Pack,6,1436.5,366.7
+ORD-2025-0166,2025-10-13,CUST-1085,East,Antipolo,Office Supplies,Storage,Document Organizer,3,1920.0,338.92
+ORD-2025-0167,2025-03-14,CUST-1011,Central,Manila,Furniture,Storage,Bookshelf,2,8400.0,1407.87
+ORD-2025-0168,2025-06-08,CUST-1003,East,Taytay,Office Supplies,Paper,A4 Copy Paper Box,6,10990.64,1765.97
+ORD-2025-0169,2025-07-05,CUST-1013,Central,Makati,Technology,Accessories,Mechanical Keyboard,2,5177.49,808.59
+ORD-2025-0170,2025-09-17,CUST-1021,North,Malabon,Office Supplies,Storage,Document Organizer,5,3200.0,640.44
+ORD-2025-0171,2025-04-03,CUST-1031,South,Muntinlupa,Office Supplies,Paper,Notebook Set,3,1440.0,394.72
+ORD-2025-0172,2025-08-16,CUST-1025,Central,Pasig,Office Supplies,Paper,A4 Copy Paper Box,3,5629.19,1028.73
+ORD-2025-0173,2025-07-08,CUST-1018,East,Antipolo,Office Supplies,Writing,Marker Set,2,772.46,211.73
+ORD-2025-0174,2025-05-09,CUST-1016,North,Malabon,Office Supplies,Writing,Gel Pen Pack,6,1320.0,419.33
+ORD-2025-0175,2025-05-26,CUST-1029,North,Quezon City,Office Supplies,Writing,Gel Pen Pack,4,880.0,226.46
+ORD-2025-0176,2025-08-19,CUST-1011,Central,Makati,Office Supplies,Paper,Notebook Set,5,2552.78,640.48
+ORD-2025-0177,2025-07-11,CUST-1061,South,Las Piñas,Office Supplies,Paper,Notebook Set,2,1000.69,243.12
+ORD-2025-0178,2025-12-23,CUST-1020,South,Muntinlupa,Office Supplies,Writing,Gel Pen Pack,1,226.98,60.66
+ORD-2025-0179,2025-10-08,CUST-1054,East,Marikina,Office Supplies,Paper,Notebook Set,1,480.0,107.43
+ORD-2025-0180,2025-11-24,CUST-1019,East,Marikina,Technology,Accessories,USB-C Hub,5,7847.41,1485.95
